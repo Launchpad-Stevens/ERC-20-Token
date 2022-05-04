@@ -2,6 +2,10 @@
 
 ## SevenCoin
 
+Sevencoin is an ERC20 token based of Bryan Kyritz's cat named Seven
+
+![Seven](https://i.imgur.com/wGnQDsL.jpeg)
+
 ### Important Links
 
 - [ERC-20 Token Standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
