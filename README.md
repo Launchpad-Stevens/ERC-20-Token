@@ -4,11 +4,11 @@
 
 ### Important Links
 
-[ERC-20 Token Standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
-[SevenCoin](https://snowtrace.io/token/0xeCde7da91AADA9F3714fbFb88689cd359Feb9677)
+- [ERC-20 Token Standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+- [SevenCoin](https://snowtrace.io/token/0xeCde7da91AADA9F3714fbFb88689cd359Feb9677)
 
-Contract Chain: Avalanche
-Contract Address: 0xeCde7da91AADA9F3714fbFb88689cd359Feb9677
+- Contract Chain: Avalanche
+- Contract Address: 0xeCde7da91AADA9F3714fbFb88689cd359Feb9677
 
 ### What is ERC-20?
 
@@ -22,3 +22,9 @@ The ERC-20 (Ethereum Request for Comments 20), proposed by Fabian Vogelsteller i
 - get the current token balance of an account
 - get the total supply of the token available on the network
 - approve whether an amount of token from an account can be spent by a third-party account
+
+### How to run tests:
+
+```
+truffle test
+```
